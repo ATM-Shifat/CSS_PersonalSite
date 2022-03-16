@@ -1,0 +1,129 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family:'Merriweather', sans-serif;
+  color: #046163;
+}
+h1{
+  font-family: 'Mea Culpa','Cookie', cursive;
+  font-size: 6.25rem;
+  font-weight: lighter;
+  color: #058487;
+  margin: 50px auto 0 auto;
+}
+p{
+  line-height: 2;
+}
+h2{
+  font-family:'El Messiri', sans-serif;
+  font-weight: normal;
+  color: #149396;
+  font-size: 2.5rem;
+}
+h3{
+  font-family:'El Messiri', sans-serif;
+  color: #28a5a8;
+}
+p{
+  margin: 0;
+}
+
+hr{
+  margin: 100px auto;
+  border: 5px dotted #EAF6F6;
+  border-bottom: none;
+  width:4%;
+
+}
+
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 0;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+.mountain{
+  height: 200px;
+  width:600px;
+}
+.middle-container{
+  margin-top: 100px;
+  padding-bottom: 100px;
+}
+.intro{
+  width: 50%;
+  margin: auto;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.uskill-img{
+  width:15%;
+  float:left;
+  margin-right: 30px;
+}
+.nskill-img{
+  width:15%;
+  float:right;
+  margin-left: 30px;
+}
+
+.profile{
+  margin-top: 0;
+  margin-bottom: 100px;
+  position: relative;
+}
+
+.contact-message{
+  width:50%;
+  margin: 0 auto 100px auto;
+}
+
+.btn{
+  color: white;
+  padding: 10px 20px;
+  font-size: 1.25rem;
+  background-image: linear-gradient(#24A19C, #36cfc8, #24A19C);
+  border-radius: 8px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.btn:hover{
+  background-image: linear-gradient(#58ede7, #24A19C, #36cfc8);
+}
+
+.bottom-container{
+  padding: 50px 0;
+  background-color: #66BFBF ;
+}
+.footer-link{
+  color: #11999E;
+  margin: 20px;
+  font-size:1.25em;
+  font-family:'Unna', sans-serif;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #1f5452;
+}
+.footer-text{
+  padding: 20px 0;
+  font-size:0.75rem;
+  color: white;
+}
+.cright{
+  color: #EAF6F6;
+}
